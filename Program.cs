@@ -10,4 +10,4 @@ Console.WriteLine("\n");
 
 Nokia meuNokia = new("9876543", "Nokia Tijolão", "ASFASDFWERQAS", 64);
 meuNokia.Ligar();
-meuNokia.InstalarAplicativo("Jogo da Cobrinha");
+meuNokia.InstalarAplicativo("Jogo da Netflix");
